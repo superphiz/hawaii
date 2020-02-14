@@ -19,7 +19,7 @@ June or July 2022, when US schools are on summer break. It's not the ideal week 
 
 ## What are the conditions?
 
-If Ether is trading above $1000 on Monday, January 10, 2022, the event will be greenlighted. This essentially means that anyone who said they were going is going to sell their Hawaii stash (and crash the market) around January 10 and begin buying plane tickets, booking hotels, etc.
+If Ether is trading above $1420 on Monday, January 10, 2022, the event will be greenlighted. This essentially means that anyone who said they were going is going to sell their Hawaii stash (and crash the market) around January 10 and begin buying plane tickets, booking hotels, etc.
 
 ## What will the event be like?
 
