@@ -25,4 +25,4 @@ If Ether is trading above $1420 on Monday, January 10, 2022, the event will be g
 
 ## What will the event be like?
 
-Informal is the key here. We'll pick a week and an area of a city and generally congregate. The intention is for families and friends to have an opportunity to celebrate the ride together. Meals and gatherings will be penciled in before we go, but the true point is to relax and spend time with your family and people you kind of know from the Internet. 
+This is first and foremost a chance for people to visit Hawaii with their family to celebrate the success of Ethereum, secondary to that goal it's a chance for Ethfinancier's to get together and shoot the shit. Meals and gatherings will be penciled in before we go, but the true point is to relax and spend time with your family and people you kind of know from the Internet. Any participant may make arrangements and announce them and/or invite others to join in, participants may create novelty ERC 721 tokens, and do any sort of additional organzizing that they choose, but the core concept of the trip is purposefully disorganized.
