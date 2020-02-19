@@ -27,7 +27,7 @@ If Ether is trading above $1420 on Tuesday, June 15, 2021, the event will be gre
 
 ## What will the event be like?
 
-This is first and foremost a chance for people to visit Hawaii with their family to celebrate the success of Ethereum, secondary to that goal it's a chance for Ethfinancier's to get together and shoot the shit. Meals and gatherings will be penciled in before we go, but the true point is to relax and spend time with your family and people you kind of know from the Internet. Any participant may make arrangements and announce them and/or invite others to join in, participants may create novelty ERC 721 tokens, and do any sort of additional organzizing that they choose, but the core concept of the trip is purposefully disorganized.
+This is first and foremost a chance for people to visit Hawaii with their family to celebrate the success of Ethereum, secondary to that goal it's a chance for Ethfinancier's to get together and shoot the shit. Meals and gatherings will be penciled in before we go, but the true point is to relax and spend time with your family and people you kind of know from the Internet. Any participant may make arrangements and announce them and/or invite others to join in, participants may create novelty ERC 721 tokens, and do any sort of additional organizing that they choose, but the core concept of the trip is purposefully disorganized.
 
 ## Estimating cost
 
