@@ -1,7 +1,7 @@
 Just an attempt to quanitfy the costs for the trip, these costs are purposefully exaggerated. Please feel free to modify this the make the estimate more realistic.
 
 |Item|Cost|
-|------|------|----|
+|------|------|
 |Nightly Rate x 9 | $4500| 
 |Air fare x 3 | $4500 | 
 |Food & drink | $1200| 
