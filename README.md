@@ -1,6 +1,8 @@
 # hawaii
 An informal planning doc for /r/ethfinance in hawaii in 2022
 
+![Hodlercon 2022](/ethfinance.jpg)
+
 ## Who is it?
 
 This is an open event. Ideally it would include people who are interested in Ethereum and their families. There is no formal registration process, but I anticipate developing a list of people who plan to attend. If interest increases I'll set up an organizational github page.
