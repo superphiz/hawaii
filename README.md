@@ -23,7 +23,7 @@ Tuesday, June 21, 2022 to Thursday, June 30, 2022. (9 days)
 
 ## What are the conditions?
 
-If Ether is trading above $1420 on Tuesday, June 15, 2021, the event will be greenlighted. This essentially means that anyone who said they were going is going to sell their Hawaii stash around January 10 and begin buying plane tickets, booking hotels, etc. It's important to note that the price of Ether may exceed $1420 before that date, but it must be trading ABOVE $1420 on Tuesday, June 15, 2021 to greenlight the trip. Hodlers should plan to sell enough to cover the trip and expenses at that time.
+If Ether is trading above $1420 on Tuesday, June 15, 2021, the event will be greenlighted. This essentially means that anyone who said they were going is going to sell their Hawaii stash around June 15 and begin buying plane tickets, booking hotels, etc. It's important to note that the price of Ether may exceed $1420 before that date, but it must be trading ABOVE $1420 on Tuesday, June 15, 2021 to greenlight the trip. Hodlers should plan to sell enough to cover the trip and expenses at that time. The year in advance means we'll be able to book the resort as soon as reservations open, one year before the stay.
 
 ## What will the event be like?
 
