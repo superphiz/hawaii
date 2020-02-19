@@ -5,7 +5,7 @@ An informal planning doc for /r/ethfinance in hawaii in 2022
 
 ## Who is it?
 
-This is an open event. Ideally it would include people who are interested in Ethereum and their families. There is no formal registration process. To maintain the security and privacy of attendees and their familiesm members may choose not to disclose their attendance and just show up.
+This is an open event. Ideally it would include people who are interested in Ethereum and their families. There is no formal registration process. To maintain the security and privacy of attendees and their families, members may choose not to disclose their attendance and just show up.
 
 ## What is it?
 
