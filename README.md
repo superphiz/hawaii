@@ -19,7 +19,7 @@ We're suggestng reservations at the [Kaua'i Beach Club (Marriott)](https://www.m
 
 ## When is it?
 
-Tuesday, June 21, 2022 to Thursday, June 30, 2022.
+Tuesday, June 21, 2022 to Thursday, June 30, 2022. (9 days)
 
 ## What are the conditions?
 
