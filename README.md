@@ -3,7 +3,7 @@ An informal planning doc for /r/ethfinance in hawaii in 2022
 
 [View this a as a webpage](https://superphiz.github.io/hawaii/)
 
-![Hodlercon 2022](/ethfinance.jpg)
+![Hodlercon 2022](/ethereum.jpg)
 
 ## Who is it?
 
