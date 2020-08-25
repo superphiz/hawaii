@@ -1,5 +1,5 @@
 # hawaii
-An informal planning doc for /r/ethfinance in hawaii in 2022
+An informal planning doc for Ethereum friends to visit hawaii in 2022
 
 [View this a as a webpage](https://superphiz.github.io/hawaii/)
 
