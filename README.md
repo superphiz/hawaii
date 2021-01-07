@@ -34,3 +34,8 @@ This is first and foremost a chance for people to visit Hawaii with their family
 Now is the BEST time to earmark your Ether for this trip! Set it aside, put it in a special place. If the trip happens you'll be ready to go. Here's a rough attempt at estimating the cost for the trip for a family of 3:
 
 https://superphiz.github.io/hawaii/cost_estimate
+
+
+## Promoting the trip
+![ETH Hawaii Coin](/EthHawaiiCoin.png)
+![ETH Hawaii Coin Spinning](/EthHawaiiCoinSpin.gif)
