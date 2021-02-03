@@ -15,7 +15,7 @@ HodlerCon 2022
 
 ## Where is it?
 
-We're suggestng reservations at the [Kaua'i Beach Club (Marriott)](https://www.marriott.com/hotels/travel/lihka-marriotts-kauai-beach-club/), with a nightly rendezvous at Duke's inside the resort. ([reference](https://www.reddit.com/r/ethfinance/comments/f3o0t8/daily_general_discussion_february_14_2020/fhnvcf6/))
+We're suggesting reservations at the [Kaua'i Beach Club (Marriott)](https://www.marriott.com/hotels/travel/lihka-marriotts-kauai-beach-club/), with a nightly rendezvous at Duke's inside the resort. ([reference](https://www.reddit.com/r/ethfinance/comments/f3o0t8/daily_general_discussion_february_14_2020/fhnvcf6/))
 
 ## When is it?
 
