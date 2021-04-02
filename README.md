@@ -1,3 +1,5 @@
+# Hodlercon 2022 in Hawaii
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -14,7 +16,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# hawaii
 An informal planning doc for Ethereum friends to visit hawaii in 2022
 
 [View this a as a webpage](https://superphiz.github.io/hawaii/)
