@@ -4,15 +4,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [hawaii](#hawaii)
-  - [Who is it?](#who-is-it)
-  - [What is it?](#what-is-it)
-  - [Where is it?](#where-is-it)
-  - [When is it?](#when-is-it)
-  - [What are the conditions?](#what-are-the-conditions)
-  - [What will the event be like?](#what-will-the-event-be-like)
-  - [Estimating cost](#estimating-cost)
-  - [Promoting the trip](#promoting-the-trip)
+- [Who is it?](#who-is-it)
+- [What is it?](#what-is-it)
+- [Where is it?](#where-is-it)
+- [When is it?](#when-is-it)
+- [What are the conditions?](#what-are-the-conditions)
+- [What will the event be like?](#what-will-the-event-be-like)
+- [Estimating cost](#estimating-cost)
+- [Promoting the trip](#promoting-the-trip)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
