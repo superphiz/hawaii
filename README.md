@@ -17,7 +17,14 @@
 
 An informal planning doc for Ethereum friends to visit hawaii in 2022
 
+Pull Requests to this document are welcomed, encouraged, and may be incentivized ;)
+
+[Plan with us on Discord](https://discord.gg/ZC8Su6h4QQ)
+
 [View this a as a webpage](https://superphiz.github.io/hawaii/)
+
+[See additional details at https://hodler.holiday](https://hodler.holiday)
+
 
 ![Hodlercon 2022](/ethereum.jpg)
 
@@ -31,13 +38,15 @@ HodlerCon 2022
 
 ## Where is it?
 
-We're suggesting reservations at the [Kaua'i Beach Club (Marriott)](https://www.marriott.com/hotels/travel/lihka-marriotts-kauai-beach-club/), with a nightly rendezvous at Duke's inside the resort. ([reference](https://www.reddit.com/r/ethfinance/comments/f3o0t8/daily_general_discussion_february_14_2020/fhnvcf6/))
+As of June 15,2021, the event location will be on a Hawaiian island, but the specific details haven't been worked out. Please [refer to the discord](https://discord.gg/ZC8Su6h4QQ) for the most up-to-date details.
 
 ## When is it?
 
 Tuesday, June 21, 2022 to Thursday, June 30, 2022. (9 days)
 
 ## What are the conditions?
+
+**This section is being left for posterity, the trip has the green light and planning is in progress!**
 
 If Ether is trading above $1420 on Tuesday, June 15, 2021, the event will be greenlighted. This essentially means that anyone who said they were going is going to sell their Hawaii stash around June 15 and begin buying plane tickets, booking hotels, etc. It's important to note that the price of Ether may exceed $1420 before that date, but it must be trading ABOVE $1420 on Tuesday, June 15, 2021 to greenlight the trip. Hodlers should plan to sell enough to cover the trip and expenses at that time. The year in advance means we'll be able to book the resort as soon as reservations open, one year before the stay.
 
