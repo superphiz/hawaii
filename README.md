@@ -30,7 +30,7 @@ Pull Requests to this document are welcomed, encouraged, and may be incentivized
 
 ## Who is it?
 
-This is an open event. Ideally it would include people who are interested in Ethereum and their families. There is no formal registration process. To maintain the security and privacy of attendees and their families, members may choose not to disclose their attendance and just show up.
+This is an open event. Ideally it would include people who are interested in Ethereum and their families. There is no formal registration process. To maintain the security and privacy of attendees and their families, members may choose not to disclose their attendance and just show up. 
 
 ## What is it?
 
@@ -42,7 +42,7 @@ As of June 15,2021, the event location will be on a Hawaiian island, but the spe
 
 ## When is it?
 
-Tuesday, June 21, 2022 to Thursday, June 30, 2022. (9 days)
+Friday, June 17, 2022 to Sunday, June 26, 2022. (9 days)
 
 ## What are the conditions?
 
