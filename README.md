@@ -38,11 +38,11 @@ HodlerCon 2022
 
 ## Where is it?
 
-As of June 15,2021, the event location will be on a Hawaiian island, but the specific details haven't been worked out. Please [refer to the discord](https://discord.gg/ZC8Su6h4QQ) for the most up-to-date details.
+As of June 15, 2021, the event location will be on a Hawaiian island, but the specific details haven't been worked out. Please [refer to the discord](https://discord.gg/ZC8Su6h4QQ) for the most up-to-date details.
 
 ## When is it?
 
-Friday, June 17, 2022 to Sunday, June 26, 2022. (9 days)
+Friday, June 17, 2022 to Sunday, June 26, 2022. (9 days) 
 
 ## What are the conditions?
 
