@@ -17,6 +17,9 @@
 
 An informal planning doc for Ethereum friends to visit hawaii in 2022
 
+# This github is only for historical reference
+# Join [the discord for the latest information](https://discord.gg/TxCqdrmEqx)
+
 Pull Requests to this document are welcomed, encouraged, and may be incentivized ;)
 
 [Plan with us on Discord](https://discord.gg/ZC8Su6h4QQ)
